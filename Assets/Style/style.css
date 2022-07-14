@@ -182,7 +182,7 @@ header {
 
 #carier .container-carier .first {
   flex-grow: 1;
-  background-image: url('/Assets/Img/c1.jpg');
+  background-image: url('Assets/Img/c1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
